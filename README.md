@@ -3,7 +3,7 @@
 API Rest connectada a una altra API fent servirWebClient
 
 La API a la que es connecta es troba a l'enllaç: 
-https://github.com/pilar-am/S05T01N02_API_Rest
+[https://github.com/pilar-am/S05T01N02_API_Rest](https://github.com/pilar-am/API_REST_SQL)
 
 URLs:
 http://localhost:9002/flor/clientFlorsAdd<br>
